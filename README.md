@@ -6,6 +6,10 @@ So, my immediate thought was to write an automated script that downloads and sav
 # Requirements
 
 * Python 2.7.x
-* ```bash
-pip install requests
+* pip install requests
+
+# Run
+
+```
+python ullman.py
 ```
